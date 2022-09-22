@@ -12,7 +12,7 @@ namespace Scorer.Models.Tests
     public void tallyScore_outputWordScore_True()
     {
       Game gameVariable = new Game();
-      Assert.AreEqual(25, gameVariable.tallyScore("brazil"));
+      Assert.AreEqual(21, gameVariable.tallyScore("butterscotch"));
     }
   }
 }
