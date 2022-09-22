@@ -1,26 +1,21 @@
 //UI file
-/*
+
 using System;
 using System.Collections.Generic;
 
-using Calculator.Models;
+using Scorer.Models;
 
-namespace Calculator
+namespace Score
 {
 	public class Program
 	{
 		public static void Main()
     {
-      Console.WriteLine("Enter a Month, Day, and Year in numbers and get the day of the week for that day");
-      Console.WriteLine("Month:");
-      int m = Int32.Parse(Console.ReadLine());
-      Console.WriteLine("Day:");
-      int d = Int32.Parse(Console.ReadLine());
-      Console.WriteLine("Year:");
-      int y = Int32.Parse(Console.ReadLine());
-      Voodoo variable = new Voodoo();
-      Console.WriteLine(variable.findDay(m, d, y));
+      Console.WriteLine("Enter a word");
+      string word = Console.ReadLine();
+
+      Game variable = new Game();
+      Console.WriteLine("Your word: " + word + ", is worth " + variable.tallyScore(word.ToLower()) + " points!");
     }
   }
 }
-*/

@@ -10,3 +10,7 @@ C:\Users\shabr\Desktop\Scrabble\Scrabble\obj\Debug\net5.0\Scrabble.csproj.CoreCo
 C:\Users\shabr\Desktop\Scrabble\Scrabble\obj\Debug\net5.0\Scrabble.dll
 C:\Users\shabr\Desktop\Scrabble\Scrabble\obj\Debug\net5.0\ref\Scrabble.dll
 C:\Users\shabr\Desktop\Scrabble\Scrabble\obj\Debug\net5.0\Scrabble.pdb
+C:\Users\shabr\Desktop\Scrabble\Scrabble\bin\Debug\net5.0\Scrabble.exe
+C:\Users\shabr\Desktop\Scrabble\Scrabble\bin\Debug\net5.0\Scrabble.runtimeconfig.json
+C:\Users\shabr\Desktop\Scrabble\Scrabble\bin\Debug\net5.0\Scrabble.runtimeconfig.dev.json
+C:\Users\shabr\Desktop\Scrabble\Scrabble\obj\Debug\net5.0\Scrabble.genruntimeconfig.cache

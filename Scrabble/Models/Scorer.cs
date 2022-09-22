@@ -44,7 +44,7 @@ namespace Scorer.Models
         }
         else
         {
-          Console.WriteLine("not a character");
+          Console.WriteLine(c + " is not a character in the game, ignoring it");
         }
       }
 
